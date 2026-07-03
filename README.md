@@ -1,6 +1,6 @@
 # RFID-Record-Player-With-Audio-Output
 
-<img src="/images/coverTitle.jpeg" />
+<img src="/images/coverTitle.jpeg"/>
 
 **Disclosure:** This is a revision of the RFID Record Player by fatihak. Please check out his repository. https://github.com/fatihak/RFID-Record-Player/tree/main
 
